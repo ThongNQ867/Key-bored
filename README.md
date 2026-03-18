@@ -11,19 +11,19 @@ Basicaly we got a working keyboard now.
 
 The assembled design should look like this
 
-![alt text](image/image.png)
+![alt text](https://github.com/ThongNQ867/Key-bored/blob/main/images/image.png)
 
 The PCB design:
 
-![alt text](image/image-1.png)
-![alt text](image/image-6.png)
+![alt text](https://github.com/ThongNQ867/Key-bored/blob/main/images/image-1.png)
+![alt text](https://github.com/ThongNQ867/Key-bored/blob/main/images/image-6.png)
 
 Schematic (each side):
 
-![alt text](image/image-2.png)
-![alt text](image/image-3.png)
-![alt text](image/image-4.png)
-![alt text](image/image-5.png)
+![alt text](https://github.com/ThongNQ867/Key-bored/blob/main/images/image-2.png)
+![alt text](https://github.com/ThongNQ867/Key-bored/blob/main/images/image-3.png)
+![alt text](https://github.com/ThongNQ867/Key-bored/blob/main/images/image-4.png)
+![alt text](https://github.com/ThongNQ867/Key-bored/blob/main/images/image-5.png)
 
 
 BOM:
